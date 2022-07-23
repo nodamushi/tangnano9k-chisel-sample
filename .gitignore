@@ -1,0 +1,11 @@
+.bloop/
+.bsp/
+.metals/
+.vscode/
+project/
+target/
+test_run_dir/
+gwide/**/impl
+*.gprj.user
+*.gprj
+build/
